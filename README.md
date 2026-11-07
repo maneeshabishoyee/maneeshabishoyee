@@ -72,10 +72,20 @@ Responsive portfolio showcasing projects, skills and development experience.
 
 ---
 
+
 <div align="center">
 
-### Build • Learn • Solve • Deploy 🚀
+### 💡 Build. Learn. Solve. Repeat.
 
-⭐ Thanks for visiting my profile!
+**Thank you for visiting my GitHub profile!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=maneeshabishoyee&color=blueviolet&style=flat-square&label=Profile+Views)
+
+---
+
+### 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maneeshabishoyee&theme=tokyo-night&hide_border=true)
 
 </div>
+
