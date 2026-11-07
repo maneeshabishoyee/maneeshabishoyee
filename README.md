@@ -60,15 +60,14 @@ Responsive portfolio showcasing projects, skills and development experience.
 
 ## 📊 GitHub Statistics
 
+
+## 📊 GitHub Activity
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maneeshabishoyee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Statistics" />
+![Profile Views](https://komarev.com/ghpvc/?username=maneeshabishoyee&color=blueviolet&style=flat-square&label=Profile+Views)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshabishoyee&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=maneeshabishoyee&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+### 🚀 Building Projects • Learning Java • Improving Every Day
 
 </div>
 
